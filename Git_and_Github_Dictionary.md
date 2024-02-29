@@ -39,9 +39,17 @@ IMPORTANT
 2. Staging Area: $git add. Dump what you want to commit. Using to prepare snapshot. Gives you some control
 
 3. Local Repository: it is where your snapshots are saved. Locally in your computer --> ls  -la command --> .git --> git commit sent things to local repo
-   
-   
+
+### Why command message
+
+This message will later on help you or anyone else that has acces to it, to understand the context of changes and updates.
 
 
 
+GIT status allows me to check what files are 
 
+1. unstaged
+
+2. untracked
+
+3. > > 
