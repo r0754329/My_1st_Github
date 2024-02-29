@@ -21,3 +21,11 @@
   - BE DISCRIPTIVE as possible --> better to have enough information than less
 
 --> SAVES the updates version (snapshot/point in time) in the git repo
+
+- Git status: check in what conceptual area my file folder is 
+  
+  - verify uncommited changes
+  
+  - verify staged and unnstaged changes 
+  
+  - verify tasks 
