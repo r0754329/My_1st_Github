@@ -63,3 +63,35 @@ git add regex --> * : means everything
 3. git status 
 
 4. git -m "meaningful message"
+
+Create a new reposiory 
+
+1. choose a name for the project --> easier to use same as folder
+
+2. keep it public but private also possible 
+
+3. create 
+
+# README.txt
+
+Github recognises it and shows it at a main page. Introduction to project. Where I should describe my project, my code, main goals, and usage, etc .. Can also be a good idea to add links and directions for data that should be related for exchange. 
+
+# .gitignore
+
+List of files that should not be added to repo 
+
+- Data files
+
+- Backup files 
+
+- Intermediate files 
+
+limit on what you upload on github!  But you want everything to be in the same folder and this can be done by .gitignore. Git and github will recognise this and know this can be ignored --> never added or commited. Everything in ignored file is not backed-up! take care of that yourself even if it is .gitignore --> IMPORTANT 
+
+- *.csv --> ignore all csv fles
+
+- !dataset.csv --> ignore only this file 
+
+# How to connect to remote repository
+
+git@github.com:r0754329/My_1st_Github.git --> Key of project --> all the power of it 

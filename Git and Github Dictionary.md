@@ -1,5 +1,0 @@
-# Git and Github Dictionary
-
-
-
-

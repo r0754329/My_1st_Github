@@ -47,3 +47,25 @@
   - in git show no direct comparison 
   
   - in git diff: direct comparison 
+
+- git remote add <name><SSH> 
+  
+  - create a bridge between repositories
+  
+  - connect to a remote repository 
+  
+  - nothing is yet shared --> you built the bridge but not cross the bridge yet 
+  
+  - backupt created for only commited changes so not pdf and png  
+
+- git push: cross the bridge to remote repository on Git Hub 
+  
+  - always fatal in 1st time, use following:
+    
+    git push --set-upstream folder_link master --> YES --> Password --> Done
+
+- git reset <file> : unstage specific file 
+
+- git rm <file> : remove file 
+  
+  
