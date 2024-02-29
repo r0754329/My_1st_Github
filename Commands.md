@@ -30,4 +30,20 @@
   
   - verify tasks 
 
-- Struggle to commit without -m 
+- git log: all what you have saved in your local repository 
+  
+  - git log --help 
+  
+  - git log -n <number>
+  
+  - git log --abbrev-commit 
+  
+  - get out whit q = quit 
+
+- git show <commit ID1> <commit ID2> OR git diff <commit ID1> <commit ID2> 
+  
+  - git diff showes more what you deleted 
+  
+  - in git show no direct comparison 
+  
+  - in git diff: direct comparison 

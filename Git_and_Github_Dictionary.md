@@ -44,8 +44,6 @@ IMPORTANT
 
 This message will later on help you or anyone else that has acces to it, to understand the context of changes and updates.
 
-
-
 GIT status allows me to check what files are 
 
 1. to be staged: you have committed this file or folder before, you have mmade new changes and git recognise the new changes are not yet add not commit
@@ -54,11 +52,7 @@ GIT status allows me to check what files are
 
 3. untracked files 
 
-
-
 git add regex --> * : means everything 
-
-
 
 # Routine
 
@@ -69,5 +63,3 @@ git add regex --> * : means everything
 3. git status 
 
 4. git -m "meaningful message"
-
-
