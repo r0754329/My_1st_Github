@@ -40,6 +40,8 @@ IMPORTANT
 
 3. Local Repository: it is where your snapshots are saved. Locally in your computer --> ls  -la command --> .git --> git commit sent things to local repo
 
+4. remote repo: Backup space for example Github 
+
 ### Why command message
 
 This message will later on help you or anyone else that has acces to it, to understand the context of changes and updates.
