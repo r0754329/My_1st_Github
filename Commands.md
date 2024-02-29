@@ -29,3 +29,5 @@
   - verify staged and unnstaged changes 
   
   - verify tasks 
+
+- Struggle to commit without -m 
