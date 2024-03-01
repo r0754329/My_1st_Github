@@ -109,3 +109,19 @@ git@github.com:r0754329/My_1st_Github.git --> Key of project --> all the power o
 - working with other people, each has his own branch 
 
 - release of series 
+
+
+
+# Parallel timelines - how to experiment risk free in Git
+
+1. create a new timeline - branch and give it a name 
+   
+   'git branch <name>'
+
+2. checkout to the timeline you want to work on...
+   
+   'git checkout <name/ID> '
+
+
+
+    PS: you cqn travel branchs and commits 
