@@ -95,3 +95,7 @@
   - used to move through branchs 
   
   - used to move between commits 
+  
+  - git checkout <ID> : go back in time through going to git log and look for the ID of the past 
+  
+  - always close your files before checkout so it can refresh
