@@ -99,3 +99,9 @@
   - git checkout <ID> : go back in time through going to git log and look for the ID of the past 
   
   - always close your files before checkout so it can refresh
+    
+    - for detached head: git switch -c <name> 
+      
+                                         git branch <name>  
+
+- 
