@@ -67,5 +67,17 @@
 - git reset <file> : unstage specific file 
 
 - git rm <file> : remove file 
+
+- git pull: sync local and remote git rebase --> be careful
   
+  git revert --> revert whole commit --> git revert HEAD~1 = goes back 2! 
   
+  git rebase 
+
+- git clone <SSH repo> 
+  
+  - SSH repo under green square in repo Github 
+
+- rm -rf = remove with force 
+
+
