@@ -67,5 +67,3 @@
 - git reset <file> : unstage specific file 
 
 - git rm <file> : remove file 
-  
-  
