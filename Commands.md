@@ -104,5 +104,4 @@
       
                                          git branch <name>  
 
-
-Adding an intentional conflict 
+- git merge <branches> 
