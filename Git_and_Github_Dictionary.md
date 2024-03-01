@@ -97,3 +97,17 @@ limit on what you upload on github!  But you want everything to be in the same f
 # How to connect to remote repository
 
 git@github.com:r0754329/My_1st_Github.git --> Key of project --> all the power of it 
+
+# How collaborate with someone:
+
+1. Go to your GitHub repo > Settings > Collaborators
+   
+   1. add people with either full naume, username or  email 
+   
+   2. check your email and aprove
+
+2. Clone their project  using git clone <ssh>
+
+3. write changes to file
+
+4. . git add, gity commit, git push
