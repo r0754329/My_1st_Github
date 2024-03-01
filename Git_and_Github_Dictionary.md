@@ -98,16 +98,14 @@ limit on what you upload on github!  But you want everything to be in the same f
 
 git@github.com:r0754329/My_1st_Github.git --> Key of project --> all the power of it 
 
-# How collaborate with someone:
+# Alternative histories
 
-1. Go to your GitHub repo > Settings > Collaborators
-   
-   1. add people with either full naume, username or  email 
-   
-   2. check your email and aprove
+## Branch names
 
-2. Clone their project  using git clone <ssh>
+- different solutions or ways to solve a problem --> testing new things but keep the rest save
 
-3. write changes to file
+- only see git log of branch you are in 
 
-4. . git add, gity commit, git push
+- working with other people, each has his own branch 
+
+- release of series 

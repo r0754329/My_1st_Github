@@ -67,3 +67,33 @@
 - git reset <file> : unstage specific file 
 
 - git rm <file> : remove file 
+
+
+- git pull: sync local and remote git rebase --> be careful
+  
+  git revert --> revert whole commit --> git revert HEAD~1 = goes back 2! 
+  
+  git rebase 
+
+- git clone <SSH repo> 
+  
+  - SSH repo under green square in repo Github 
+  
+  - clones everything also .git file 
+
+- rm -rf = remove with force 
+
+- git branch <name>
+  
+  - original one is master or main 
+  
+  - git branch --list: showes the branches 
+
+- git checkout: choose where you want to be: jump from one place to the other
+  
+  - git checkout <branch_name>
+  
+  - used to move through branchs 
+  
+  - used to move between commits 
+
