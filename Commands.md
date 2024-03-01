@@ -105,3 +105,5 @@
                                          git branch <name>  
 
 - 
+
+add new text to create conflict - doc 2
